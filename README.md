@@ -20,41 +20,34 @@
 
 ### 👨‍💻 About Me
 
-I am a **Systems Engineering student** at **IUTEPAL** (Valencia, Carabobo), passionate about building scalable software solutions and digital businesses. I combine my academic background in **Systems Audit (COBIT 2019)** with practical development skills to create robust applications.
+I am a **Systems Engineering student** at **IUTEPAL** (Valencia, Carabobo), combining academic rigor in **Systems Audit (COBIT 2019)** with practical software creation. My focus is on building scalable applications, from low-level systems to modern web solutions.
 
-- 🔭 **Currently Working on:** - A **Payroll System** developed in **Go (Golang)** for enterprise resource planning.
-  - **"Cuadralo"**, a social discovery and dating application for the Venezuelan market.
-  - **"Viiu"** (viiu.studio), my upcoming software development venture.
+- 🚀 **Projects & Experience:**
+  - Developed a robust **Payroll System** using **Go (Golang)** for enterprise resource planning.
+  - Co-creating **"Cuadralo"**, a social discovery and dating application tailored for the Venezuelan market.
+  - Founder of **"Viiu"** (viiu.studio), a software development studio focused on digital solutions.
 
-- 🌱 **Currently Learning:** - Advanced **Rust** patterns for systems programming.
-  - Deepening my knowledge in **Docker** containerization for microservices.
-  - **Auditoría de Sistemas** best practices and frameworks.
+- 🌱 **Continuous Learning:**
+  - Exploring **Rust** memory safety patterns for high-performance systems.
+  - Implementing **Docker** architectures for scalable microservices.
+  - Studying **Auditoría de Sistemas** standards to ensure software quality and security.
 
 - 💡 **Interests:**
-  - **Entrepreneurship:** Importing business strategies and startup creation.
-  - **Gaming & Streaming:** Content creation and branding.
+  - **Entrepreneurship:** Importing business strategies and startup ecosystems.
+  - **Gaming & Streaming:** Content creation, community building, and branding.
   - **Sports:** Avid soccer fan and statistics enthusiast.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-I have a diverse background ranging from modern web frameworks to systems programming languages.
+My stack is versatile, allowing me to switch between systems programming and full-stack web development seamlessly.
 
-#### **Core Languages & Frameworks**
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=go,rust,dart&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,rust,dart,php,laravel,js,ts,docker,mysql,postgres,git,linux,vscode,html,css&perline=15&theme=dark" />
   </a>
-</p>
-
-#### **Infrastructure & Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,vscode,linux,postman&theme=dark" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -79,10 +72,10 @@ I have a diverse background ranging from modern web frameworks to systems progra
 
 ### 🤝 Let's Connect
 
-I am always open to discussing **web development**, **startup ideas**, or simply chatting about **soccer** and **video games**.
+I am always open to discussing **software architecture**, **business opportunities**, or simply chatting about **soccer** and **video games**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu_usuario" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://twitter.com/iVictox" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
   <a href="https://instagram.com/victordeabreu_ve" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
