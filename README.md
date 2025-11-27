@@ -23,6 +23,7 @@
 I am a **Systems Engineering student** at **IUTEPAL** (Valencia, Carabobo), combining academic rigor in **Systems Audit (COBIT 2019)** with practical software creation. My focus is on building scalable applications, from low-level systems to modern web solutions.
 
 - 🚀 **Projects & Experience:**
+  - Developing **"Viiume"**, an entertainment platform dedicated to **writing and reading**, connecting creators with audiences.
   - Developed a robust **Payroll System** using **Go (Golang)** for enterprise resource planning.
   - Co-creating **"Cuadralo"**, a social discovery and dating application tailored for the Venezuelan market.
   - Founder of **"Viiu"** (viiu.studio), a software development studio focused on digital solutions.
