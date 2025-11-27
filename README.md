@@ -66,7 +66,7 @@ My stack is versatile, allowing me to switch between systems programming and ful
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iVictox&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=iVictox&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
