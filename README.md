@@ -75,8 +75,6 @@ My stack is versatile, allowing me to switch between systems programming and ful
 I am always open to discussing **software architecture**, **business opportunities**, or simply chatting about **soccer** and **video games**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://twitter.com/iVictox" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
   <a href="https://instagram.com/victordeabreu_ve" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
