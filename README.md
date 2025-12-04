@@ -26,7 +26,6 @@ I am a **Systems Engineering student** at **IUTEPAL** (Valencia, Carabobo), comb
   - Developing **"Viiume"**, an entertainment platform dedicated to **writing and reading**, connecting creators with audiences.
   - Developed a robust **Payroll System** using **Go (Golang)** for enterprise resource planning.
   - Co-creating **"Cuadralo"**, a social discovery and dating application tailored for the Venezuelan market.
-  - Founder of **"Viiu"** (viiu.studio), a software development studio focused on digital solutions.
 
 - 🌱 **Continuous Learning:**
   - Exploring **Rust** memory safety patterns for high-performance systems.
